@@ -3,3 +3,10 @@ langgraph
 langchain-community
 pypdf
 pymupdf
+
+
+
+# Embding
+sentence-transformers
+faiss-cpu   # for vector database
+chromadb    # for the vector db
