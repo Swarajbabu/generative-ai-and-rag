@@ -5,7 +5,7 @@ pypdf
 pymupdf
 
 
-
+numpy
 # Embding
 sentence-transformers
 faiss-cpu   # for vector database
