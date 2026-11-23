@@ -9,15 +9,23 @@ dependencies = [
     "chromadb>=1.5.9",
     "faiss-cpu>=1.16.0",
     "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
     "langchain>=1.5.2",
     "langchain-community>=0.4.2",
     "langgraph>=1.2.24",
+    "lightgbm>=4.7.0",
     "numpy>=2.5.5",
+    "openpyxl>=3.1.5",
     "pymupdf>=2.1",
     "pypdf>=7.1.1",
+    "seaborn>=0.13.2",
     "sentence-transformers>=6.3.0",
+    "statsmodels>=0.15.0",
+    "torchaudio>=2.11.1",
+    "torchvision>=0.29.2",
     "tqdm>=4.70.1",
     "unstructured>=0.27.37",
+    "xgboost>=3.4.1",
 ]
 
 [project.scripts]
