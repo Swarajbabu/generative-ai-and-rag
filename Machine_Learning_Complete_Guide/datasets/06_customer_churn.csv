@@ -1,0 +1,1501 @@
+tenure_months,monthly_bill_usd,support_tickets,contract_type,automatic_payment,churn
+55,85.93,2,Annual,Yes,Churn
+21,38.51,1,Monthly,Yes,No Churn
+19,40.87,4,Monthly,Yes,No Churn
+6,106.21,2,Monthly,Yes,Churn
+57,27.02,1,Monthly,Yes,No Churn
+36,58.01,4,Monthly,Yes,Churn
+9,72.41,1,Two-year,Yes,Churn
+16,55.67,2,Two-year,Yes,No Churn
+73,98.01,2,Annual,Yes,No Churn
+1,36.18,4,Monthly,No,Churn
+21,30.05,2,Annual,Yes,No Churn
+46,52.96,4,Monthly,Yes,Churn
+18,99.27,3,Monthly,Yes,Churn
+20,110.4,2,Monthly,No,Churn
+42,131.54,3,Monthly,No,Churn
+51,78.49,0,Annual,Yes,No Churn
+53,39.34,3,Monthly,No,No Churn
+47,52.1,3,Monthly,Yes,No Churn
+41,48.51,0,Two-year,Yes,No Churn
+6,122.07,4,Monthly,No,Churn
+46,34.87,1,Annual,No,No Churn
+3,77.51,1,Monthly,No,No Churn
+20,104.85,6,Two-year,No,Churn
+31,98.04,1,Monthly,Yes,Churn
+51,28.39,2,Monthly,Yes,No Churn
+2,134.95,3,Annual,Yes,Churn
+50,131.45,4,Monthly,No,Churn
+9,47.14,4,Annual,Yes,Churn
+74,34.03,4,Annual,Yes,No Churn
+57,42.64,4,Annual,No,No Churn
+33,,3,Monthly,Yes,No Churn
+72,34.15,2,Monthly,Yes,No Churn
+80,106.0,3,Annual,Yes,Churn
+43,115.88,1,Two-year,Yes,No Churn
+47,59.99,1,Two-year,Yes,Churn
+58,111.61,1,Annual,No,No Churn
+13,120.1,3,Monthly,Yes,Churn
+38,41.8,2,Annual,Yes,No Churn
+26,127.52,5,Annual,No,Churn
+64,22.34,2,Monthly,No,Churn
+48,122.08,6,Monthly,Yes,Churn
+64,86.87,3,Monthly,No,Churn
+69,102.01,0,Monthly,Yes,No Churn
+79,57.39,5,Annual,Yes,Churn
+58,23.8,3,Annual,No,No Churn
+25,106.25,1,Monthly,Yes,No Churn
+25,36.48,2,Monthly,Yes,No Churn
+76,41.72,0,,Yes,No Churn
+63,115.86,1,Monthly,No,Churn
+64,89.29,1,Annual,Yes,No Churn
+56,105.64,3,Monthly,No,No Churn
+78,33.07,1,Annual,No,Churn
+39,92.22,1,Monthly,No,Churn
+68,63.17,1,Monthly,Yes,No Churn
+29,126.58,1,Monthly,Yes,Churn
+53,31.44,2,Monthly,No,Churn
+25,79.01,1,Two-year,No,Churn
+48,125.02,3,Monthly,Yes,Churn
+9,108.03,3,Annual,Yes,No Churn
+43,116.89,0,Monthly,Yes,No Churn
+66,127.83,0,Annual,Yes,No Churn
+1,42.03,2,Two-year,Yes,No Churn
+6,83.09,5,Monthly,Yes,Churn
+77,77.24,4,Annual,Yes,Churn
+28,133.63,3,Monthly,Yes,Churn
+27,92.98,2,Annual,Yes,Churn
+32,56.61,3,Monthly,No,Churn
+24,105.33,2,Annual,Yes,Churn
+40,28.71,4,Monthly,No,Churn
+21,70.63,2,Monthly,No,Churn
+58,111.73,0,Annual,No,No Churn
+41,97.31,0,Annual,Yes,Churn
+24,134.1,3,Monthly,No,No Churn
+74,54.03,2,Monthly,Yes,Churn
+74,26.41,1,Monthly,Yes,No Churn
+66,24.61,1,Monthly,No,No Churn
+5,29.86,3,Two-year,No,Churn
+11,85.64,3,Annual,No,Churn
+74,59.83,3,Monthly,Yes,Churn
+4,65.03,5,Two-year,No,Churn
+13,40.16,0,Monthly,Yes,No Churn
+66,67.65,3,Annual,Yes,No Churn
+42,132.67,0,,Yes,Churn
+37,76.12,0,Monthly,No,No Churn
+28,30.09,2,Annual,No,No Churn
+65,26.3,3,Annual,No,Churn
+76,112.44,2,Two-year,No,Churn
+31,134.22,2,Monthly,No,No Churn
+54,125.41,1,Monthly,Yes,Churn
+58,39.57,1,Monthly,No,No Churn
+54,24.75,4,Monthly,Yes,No Churn
+57,29.22,0,Annual,No,No Churn
+64,101.27,1,Monthly,No,No Churn
+72,55.22,1,,Yes,Churn
+55,121.45,0,Monthly,No,Churn
+10,,3,Monthly,Yes,No Churn
+58,39.93,2,Annual,No,No Churn
+60,69.91,1,Monthly,Yes,No Churn
+33,25.21,4,,Yes,No Churn
+33,31.02,0,Two-year,Yes,No Churn
+73,80.52,2,Two-year,No,No Churn
+65,90.22,2,Annual,Yes,No Churn
+44,54.89,2,Monthly,No,No Churn
+77,86.84,2,Monthly,Yes,No Churn
+2,108.16,3,Monthly,Yes,Churn
+24,108.24,3,Annual,No,Churn
+41,118.24,3,Monthly,Yes,Churn
+28,69.12,0,Monthly,Yes,No Churn
+51,57.02,1,Annual,Yes,No Churn
+77,48.15,1,Two-year,No,No Churn
+1,93.02,1,Two-year,Yes,Churn
+78,62.29,1,Monthly,Yes,Churn
+72,131.06,0,Monthly,No,Churn
+63,99.86,3,Annual,No,Churn
+13,101.46,2,Monthly,Yes,Churn
+62,89.29,3,Monthly,Yes,No Churn
+68,50.08,1,Two-year,No,Churn
+38,105.55,2,Monthly,Yes,Churn
+19,55.16,4,,No,Churn
+62,48.35,2,Annual,No,No Churn
+39,58.13,1,Two-year,No,No Churn
+70,127.87,3,Monthly,Yes,Churn
+18,80.9,3,Monthly,No,Churn
+69,65.02,3,Monthly,Yes,No Churn
+79,100.95,1,Monthly,No,Churn
+6,32.44,2,Monthly,Yes,Churn
+26,44.94,2,Monthly,No,No Churn
+63,107.95,2,Two-year,Yes,No Churn
+53,115.12,0,Monthly,Yes,No Churn
+76,113.34,1,Two-year,Yes,No Churn
+37,72.97,2,Annual,No,Churn
+26,101.3,2,Monthly,Yes,No Churn
+18,70.28,1,Annual,Yes,No Churn
+15,41.86,1,Monthly,No,No Churn
+9,66.74,1,Monthly,No,No Churn
+56,26.02,2,Monthly,Yes,Churn
+9,39.32,1,Annual,No,No Churn
+35,100.17,7,Two-year,No,Churn
+26,111.21,2,Two-year,No,No Churn
+36,131.68,0,Annual,Yes,No Churn
+6,63.75,4,Monthly,Yes,Churn
+20,131.36,0,Annual,No,Churn
+65,84.57,1,Annual,Yes,No Churn
+17,90.64,1,Annual,Yes,No Churn
+32,100.96,3,Monthly,Yes,No Churn
+21,129.21,2,Monthly,No,Churn
+77,129.35,1,Monthly,Yes,No Churn
+12,103.32,2,Monthly,Yes,Churn
+11,82.52,1,Annual,No,No Churn
+79,41.05,2,Monthly,Yes,No Churn
+25,120.61,3,Monthly,Yes,No Churn
+66,92.47,2,Monthly,Yes,No Churn
+16,112.2,5,Annual,No,No Churn
+61,122.62,0,Annual,No,No Churn
+20,78.85,1,Annual,No,No Churn
+27,94.02,2,Monthly,Yes,Churn
+8,118.87,0,Monthly,Yes,Churn
+40,32.59,2,Monthly,Yes,Churn
+48,109.26,2,Annual,No,Churn
+10,34.39,1,Monthly,Yes,Churn
+65,65.38,1,Monthly,Yes,Churn
+67,47.92,0,Monthly,Yes,No Churn
+16,78.59,1,Monthly,No,Churn
+67,98.71,1,Monthly,Yes,No Churn
+13,114.35,1,Annual,Yes,No Churn
+59,112.33,2,Monthly,Yes,No Churn
+39,48.34,4,Annual,Yes,Churn
+55,72.9,2,Monthly,Yes,No Churn
+48,,2,Monthly,No,Churn
+39,84.54,2,Monthly,No,Churn
+38,89.69,2,Annual,Yes,Churn
+47,90.92,4,Annual,Yes,Churn
+77,126.82,3,Two-year,Yes,Churn
+13,61.05,3,Monthly,No,No Churn
+61,88.21,0,Monthly,Yes,Churn
+20,130.09,1,Annual,Yes,No Churn
+50,94.79,2,Annual,Yes,No Churn
+24,75.24,5,Monthly,No,Churn
+38,108.52,2,Annual,Yes,No Churn
+24,108.51,4,Monthly,No,Churn
+67,53.44,1,,Yes,No Churn
+49,57.83,2,Annual,No,No Churn
+22,130.41,0,Annual,Yes,No Churn
+56,48.73,4,Annual,No,No Churn
+73,23.13,2,Annual,No,No Churn
+23,,0,Monthly,No,Churn
+1,112.64,2,Annual,No,No Churn
+3,125.85,1,Monthly,Yes,No Churn
+47,86.12,2,Annual,Yes,No Churn
+36,127.42,2,Annual,No,No Churn
+39,38.13,0,Two-year,Yes,No Churn
+61,30.19,4,Monthly,No,Churn
+30,93.38,1,Monthly,No,No Churn
+68,48.89,4,Monthly,No,No Churn
+10,37.39,2,Annual,No,No Churn
+76,109.89,3,Annual,No,Churn
+1,77.44,2,Monthly,Yes,Churn
+80,125.34,1,Two-year,No,No Churn
+36,,1,Monthly,Yes,Churn
+50,73.56,4,Annual,Yes,No Churn
+18,37.22,0,Two-year,Yes,No Churn
+11,58.06,1,Annual,Yes,Churn
+4,111.68,2,Monthly,Yes,No Churn
+78,82.85,5,Two-year,Yes,No Churn
+19,73.92,2,Annual,No,No Churn
+41,25.31,4,Monthly,No,No Churn
+71,64.39,2,Monthly,Yes,Churn
+60,93.55,2,Monthly,Yes,No Churn
+37,49.98,4,Two-year,Yes,No Churn
+33,46.97,4,Monthly,No,No Churn
+2,36.86,1,Annual,Yes,No Churn
+24,112.57,3,Annual,Yes,Churn
+15,61.52,2,Monthly,No,Churn
+30,32.18,3,Monthly,No,No Churn
+26,123.8,4,Monthly,No,Churn
+12,89.64,3,Monthly,Yes,No Churn
+1,79.57,2,Monthly,No,No Churn
+35,43.57,2,Monthly,Yes,No Churn
+68,105.84,2,,Yes,Churn
+13,43.92,1,Annual,Yes,No Churn
+21,130.23,1,Monthly,No,Churn
+79,34.04,2,Annual,Yes,No Churn
+16,51.27,1,Monthly,Yes,No Churn
+80,29.81,2,,No,No Churn
+49,62.21,4,Monthly,Yes,Churn
+64,71.87,1,Monthly,Yes,No Churn
+13,116.65,2,Monthly,Yes,No Churn
+39,61.68,0,Annual,No,No Churn
+21,117.29,3,Monthly,No,Churn
+53,29.12,4,Monthly,Yes,Churn
+7,64.93,2,Two-year,Yes,No Churn
+39,76.6,3,Two-year,No,Churn
+13,69.24,4,Monthly,Yes,Churn
+50,133.49,1,Annual,No,No Churn
+48,22.69,1,Annual,No,No Churn
+51,23.52,2,Monthly,Yes,No Churn
+67,128.78,3,Monthly,Yes,No Churn
+66,115.23,2,Monthly,No,No Churn
+8,43.95,0,Monthly,No,No Churn
+66,58.14,4,Annual,Yes,Churn
+31,31.3,1,Annual,Yes,No Churn
+47,70.9,3,Annual,Yes,No Churn
+58,30.25,0,Two-year,No,No Churn
+13,97.75,1,Monthly,No,Churn
+26,78.19,0,Monthly,No,Churn
+38,132.77,5,Two-year,No,Churn
+68,52.36,3,Two-year,No,No Churn
+48,123.77,2,Monthly,Yes,No Churn
+21,63.12,3,Two-year,No,No Churn
+75,69.18,2,Annual,Yes,No Churn
+49,106.78,2,Annual,No,No Churn
+23,111.5,2,Monthly,Yes,Churn
+66,54.27,2,Monthly,No,No Churn
+9,127.8,2,Monthly,No,Churn
+29,35.4,4,Monthly,No,Churn
+7,48.56,2,Monthly,No,Churn
+44,117.55,1,Annual,No,Churn
+1,113.99,2,Annual,Yes,No Churn
+63,66.75,2,Monthly,Yes,No Churn
+29,103.72,3,Monthly,Yes,No Churn
+30,108.31,3,Monthly,Yes,No Churn
+18,48.71,2,Annual,Yes,No Churn
+73,91.5,0,Annual,Yes,No Churn
+47,92.37,2,Two-year,Yes,No Churn
+10,80.48,0,Annual,Yes,No Churn
+72,36.5,4,Monthly,Yes,Churn
+69,56.54,3,Two-year,Yes,Churn
+45,49.05,1,Annual,Yes,No Churn
+21,42.78,1,Monthly,Yes,No Churn
+21,22.98,5,Monthly,No,Churn
+17,30.68,7,Monthly,No,Churn
+40,84.76,3,Annual,No,Churn
+53,22.35,1,Monthly,Yes,No Churn
+24,71.3,1,Two-year,Yes,No Churn
+46,105.37,1,Annual,No,Churn
+52,83.62,2,Monthly,No,Churn
+3,35.76,2,Monthly,No,Churn
+16,31.02,4,Two-year,Yes,No Churn
+72,53.04,2,Annual,No,No Churn
+55,87.83,2,Monthly,Yes,No Churn
+25,,0,Monthly,No,Churn
+26,34.54,3,Monthly,Yes,No Churn
+73,99.56,2,Monthly,Yes,No Churn
+20,92.37,3,Annual,Yes,Churn
+33,126.47,0,Annual,No,No Churn
+3,99.4,4,Annual,No,Churn
+60,24.72,4,Two-year,No,Churn
+1,27.26,4,Monthly,Yes,Churn
+56,44.19,1,Monthly,Yes,No Churn
+7,44.58,2,Monthly,Yes,No Churn
+75,81.55,2,Monthly,No,No Churn
+26,97.97,0,Annual,No,No Churn
+77,28.96,3,Monthly,Yes,No Churn
+16,74.06,2,Monthly,Yes,Churn
+66,70.97,1,Annual,Yes,No Churn
+76,120.01,1,Monthly,No,Churn
+50,46.93,1,Annual,No,No Churn
+3,27.02,2,Two-year,Yes,No Churn
+17,116.01,3,Two-year,Yes,Churn
+71,84.81,3,Annual,Yes,No Churn
+66,96.17,2,Two-year,Yes,No Churn
+40,134.33,1,Monthly,No,Churn
+26,103.21,5,Annual,Yes,No Churn
+37,53.95,1,Monthly,No,No Churn
+69,51.03,7,,No,Churn
+80,31.91,1,Monthly,No,Churn
+34,121.16,6,Annual,Yes,No Churn
+5,130.3,0,Monthly,Yes,Churn
+56,27.75,1,Monthly,No,No Churn
+78,29.93,2,Annual,No,No Churn
+56,44.44,2,Monthly,Yes,No Churn
+54,51.14,0,Monthly,Yes,No Churn
+62,28.96,1,Monthly,Yes,No Churn
+52,116.02,5,,Yes,No Churn
+36,75.28,5,Monthly,Yes,Churn
+34,109.37,2,Annual,No,No Churn
+18,84.61,2,Monthly,No,No Churn
+2,32.72,1,Monthly,Yes,No Churn
+39,100.78,2,Annual,No,No Churn
+77,84.54,2,Monthly,Yes,Churn
+2,89.71,2,Monthly,No,No Churn
+29,129.85,1,Two-year,No,Churn
+80,27.46,1,Annual,No,No Churn
+62,45.57,3,Monthly,Yes,No Churn
+45,131.34,3,Monthly,Yes,Churn
+38,32.67,3,,Yes,Churn
+14,115.97,2,Monthly,Yes,Churn
+11,122.0,3,Monthly,No,No Churn
+51,86.7,1,Monthly,No,No Churn
+21,120.5,5,Monthly,No,Churn
+74,119.14,0,Two-year,Yes,No Churn
+42,31.22,0,Monthly,No,No Churn
+76,67.85,2,Monthly,Yes,No Churn
+38,31.75,1,Two-year,No,No Churn
+62,98.01,2,Annual,No,Churn
+53,51.28,1,Monthly,No,Churn
+26,115.92,4,Monthly,No,Churn
+25,79.31,0,Two-year,Yes,No Churn
+13,27.6,1,Annual,No,No Churn
+58,63.18,3,Monthly,Yes,Churn
+6,66.14,1,Annual,Yes,No Churn
+34,95.38,2,Two-year,No,No Churn
+24,43.55,0,Annual,No,No Churn
+51,108.64,2,Annual,No,Churn
+58,111.39,2,Annual,No,Churn
+9,54.96,3,Monthly,No,Churn
+28,25.04,6,Monthly,Yes,Churn
+27,34.37,3,Two-year,Yes,No Churn
+52,67.98,0,Monthly,No,No Churn
+46,61.24,3,Monthly,Yes,Churn
+35,114.58,2,Monthly,Yes,No Churn
+12,124.95,3,Two-year,No,Churn
+56,71.59,0,Monthly,Yes,Churn
+1,76.75,1,Monthly,No,Churn
+17,49.21,3,Monthly,No,No Churn
+23,63.87,1,Annual,Yes,No Churn
+55,28.54,5,Monthly,No,Churn
+69,67.77,4,Annual,No,Churn
+5,132.81,2,Monthly,Yes,Churn
+54,127.04,1,Two-year,No,Churn
+45,63.27,1,Two-year,Yes,No Churn
+61,102.03,2,Monthly,Yes,No Churn
+66,129.25,1,Monthly,No,Churn
+51,89.52,1,,No,No Churn
+40,77.68,1,Monthly,No,Churn
+58,52.08,5,Monthly,Yes,No Churn
+48,97.26,2,Monthly,Yes,Churn
+73,97.82,5,Monthly,Yes,Churn
+7,126.1,2,Monthly,No,Churn
+47,61.88,0,Two-year,No,No Churn
+1,90.26,1,Two-year,Yes,No Churn
+6,134.15,1,Monthly,Yes,No Churn
+61,44.88,2,Monthly,Yes,Churn
+42,47.89,0,Annual,No,No Churn
+77,113.39,2,Monthly,No,No Churn
+29,126.21,0,Annual,Yes,No Churn
+43,127.85,1,Annual,No,No Churn
+63,119.31,5,Monthly,No,Churn
+79,80.94,5,Annual,No,Churn
+26,120.47,0,Annual,Yes,No Churn
+39,35.07,1,Monthly,Yes,No Churn
+19,43.21,2,Monthly,Yes,Churn
+76,29.21,3,Monthly,No,No Churn
+66,60.24,4,Monthly,No,No Churn
+42,52.99,0,Monthly,No,No Churn
+36,22.07,3,Monthly,Yes,No Churn
+24,108.83,1,Annual,Yes,No Churn
+68,85.78,4,Monthly,Yes,Churn
+9,111.96,3,Annual,Yes,Churn
+79,41.64,3,Monthly,No,Churn
+45,41.29,2,Two-year,No,No Churn
+4,69.71,3,Annual,No,Churn
+9,104.44,0,Monthly,No,Churn
+47,71.61,0,Annual,Yes,No Churn
+71,47.76,0,Annual,No,No Churn
+62,106.99,2,Annual,Yes,Churn
+27,42.29,1,Monthly,No,No Churn
+10,56.6,5,Monthly,Yes,Churn
+39,86.19,1,Two-year,No,No Churn
+32,120.94,6,Annual,No,Churn
+9,42.64,2,Monthly,Yes,Churn
+10,49.74,2,Monthly,Yes,Churn
+11,100.65,2,Monthly,No,Churn
+29,29.3,2,Monthly,No,Churn
+80,44.58,1,Two-year,No,No Churn
+67,88.47,4,Annual,Yes,Churn
+28,112.13,3,Annual,Yes,Churn
+7,101.89,3,Annual,No,Churn
+31,129.25,3,Annual,Yes,No Churn
+73,128.28,3,Monthly,Yes,Churn
+59,103.92,1,Monthly,Yes,No Churn
+10,92.29,0,Monthly,Yes,Churn
+36,24.63,2,Monthly,Yes,No Churn
+69,95.7,2,Monthly,Yes,Churn
+54,42.65,3,,Yes,No Churn
+23,134.35,5,Monthly,Yes,Churn
+71,86.54,1,Annual,Yes,No Churn
+3,45.42,2,Annual,Yes,No Churn
+9,125.31,4,Monthly,No,Churn
+9,92.45,1,Monthly,No,Churn
+18,50.86,5,Monthly,No,Churn
+74,39.07,1,Monthly,Yes,No Churn
+30,126.57,4,Monthly,Yes,Churn
+58,39.23,3,Annual,No,No Churn
+40,133.82,1,Annual,Yes,Churn
+52,51.44,2,Monthly,Yes,No Churn
+8,58.22,1,Two-year,Yes,No Churn
+16,70.1,0,Annual,Yes,No Churn
+14,61.16,2,Monthly,Yes,Churn
+50,81.22,1,Monthly,No,No Churn
+34,,2,Monthly,Yes,No Churn
+25,114.19,1,Monthly,Yes,No Churn
+46,30.05,3,Monthly,No,No Churn
+50,51.57,4,Monthly,No,Churn
+71,51.16,1,Monthly,No,Churn
+60,93.8,1,,No,No Churn
+22,134.23,2,Monthly,No,No Churn
+77,88.51,2,Monthly,Yes,Churn
+68,37.43,0,Monthly,No,No Churn
+65,26.02,0,Monthly,Yes,No Churn
+71,30.42,3,Monthly,Yes,No Churn
+14,76.71,2,Annual,Yes,No Churn
+26,89.64,2,Two-year,No,No Churn
+24,129.61,1,Monthly,No,Churn
+23,24.24,3,Two-year,Yes,No Churn
+13,33.74,4,Monthly,Yes,No Churn
+52,26.23,5,Two-year,No,No Churn
+22,47.13,1,Monthly,No,No Churn
+54,88.68,1,Monthly,Yes,Churn
+79,115.65,1,Two-year,No,Churn
+77,62.34,5,Monthly,No,Churn
+55,114.41,1,Monthly,Yes,Churn
+49,37.66,3,Monthly,Yes,No Churn
+47,31.1,2,Monthly,Yes,No Churn
+59,90.83,2,Monthly,Yes,Churn
+44,69.48,3,Monthly,Yes,No Churn
+73,115.03,1,Monthly,No,Churn
+53,25.56,1,Monthly,No,No Churn
+72,81.61,3,Two-year,Yes,No Churn
+20,104.05,0,Monthly,Yes,No Churn
+69,57.26,3,Monthly,Yes,No Churn
+47,76.62,2,Annual,Yes,No Churn
+3,29.71,5,Monthly,Yes,Churn
+46,75.59,3,Annual,Yes,Churn
+72,112.57,2,Monthly,Yes,Churn
+20,133.15,0,,Yes,No Churn
+38,54.61,3,Monthly,No,No Churn
+75,61.96,1,Monthly,Yes,No Churn
+23,91.64,2,Annual,Yes,Churn
+58,58.06,3,Annual,Yes,No Churn
+50,85.93,1,Annual,No,No Churn
+73,27.56,4,Two-year,Yes,No Churn
+30,67.73,2,Monthly,No,No Churn
+77,28.85,2,Annual,Yes,Churn
+8,32.32,4,Monthly,Yes,No Churn
+6,127.57,1,Annual,Yes,Churn
+75,38.67,4,Monthly,Yes,No Churn
+67,50.59,1,Monthly,No,No Churn
+36,101.16,3,Monthly,No,Churn
+56,59.2,2,Two-year,Yes,No Churn
+11,71.33,2,Monthly,Yes,Churn
+57,93.04,1,Annual,Yes,Churn
+14,76.46,2,Two-year,Yes,No Churn
+6,106.87,1,Monthly,No,Churn
+42,81.38,3,Annual,No,No Churn
+57,72.98,0,Monthly,No,Churn
+4,116.08,4,Annual,No,Churn
+37,61.53,1,Annual,No,No Churn
+37,105.8,1,Monthly,No,Churn
+7,129.36,4,Annual,No,Churn
+36,125.11,6,Annual,No,Churn
+32,51.94,2,Annual,No,No Churn
+17,134.63,4,Monthly,Yes,Churn
+73,92.42,1,Annual,Yes,No Churn
+46,114.74,0,Annual,Yes,Churn
+61,,2,Annual,No,No Churn
+78,25.75,0,Annual,No,No Churn
+29,116.81,4,Two-year,No,Churn
+31,128.02,2,Monthly,Yes,No Churn
+35,74.1,1,Monthly,Yes,Churn
+63,131.1,3,Annual,No,No Churn
+24,23.23,5,Two-year,Yes,No Churn
+46,126.31,2,Two-year,No,No Churn
+78,28.69,0,Annual,Yes,No Churn
+6,44.71,0,Monthly,Yes,No Churn
+19,86.71,1,Two-year,Yes,No Churn
+26,117.66,3,Monthly,No,No Churn
+46,49.97,2,Annual,Yes,No Churn
+13,104.44,1,Monthly,Yes,No Churn
+72,88.44,2,Annual,Yes,No Churn
+41,86.98,2,Annual,Yes,Churn
+35,86.9,2,Monthly,Yes,No Churn
+2,35.63,2,Annual,Yes,No Churn
+34,103.94,1,Annual,Yes,Churn
+22,108.76,2,Monthly,No,No Churn
+61,58.29,1,Two-year,No,No Churn
+32,126.6,1,Monthly,No,Churn
+66,108.8,2,Monthly,Yes,Churn
+72,92.17,3,Monthly,Yes,Churn
+43,103.14,0,Two-year,Yes,No Churn
+8,102.24,1,Monthly,Yes,Churn
+9,38.96,2,Monthly,No,Churn
+58,59.19,3,Monthly,No,Churn
+43,132.36,0,Monthly,No,Churn
+18,,2,Monthly,Yes,Churn
+33,85.75,2,Annual,No,No Churn
+18,131.46,3,Annual,No,Churn
+14,85.95,2,Annual,No,No Churn
+14,111.67,1,Monthly,No,Churn
+50,121.13,4,Monthly,Yes,Churn
+65,24.36,1,Annual,Yes,No Churn
+33,27.41,5,Annual,No,Churn
+44,42.18,3,Monthly,No,No Churn
+34,122.99,2,Annual,Yes,No Churn
+31,51.32,4,Annual,Yes,No Churn
+22,41.81,4,Annual,No,No Churn
+53,,2,Annual,No,Churn
+64,81.36,3,Monthly,No,Churn
+18,117.28,2,Monthly,Yes,Churn
+50,86.75,3,Monthly,Yes,Churn
+1,112.39,2,Annual,Yes,Churn
+66,114.27,4,Monthly,Yes,Churn
+44,31.29,3,Annual,Yes,No Churn
+28,74.86,3,Monthly,Yes,Churn
+54,124.19,2,Annual,No,Churn
+18,23.89,3,Two-year,No,No Churn
+6,130.88,2,Monthly,Yes,No Churn
+21,122.21,1,Monthly,No,Churn
+64,41.22,3,Monthly,Yes,No Churn
+47,30.0,3,Monthly,Yes,No Churn
+67,125.77,2,Annual,Yes,Churn
+76,22.54,5,Two-year,No,No Churn
+50,58.94,1,Two-year,Yes,No Churn
+22,130.5,4,Annual,No,Churn
+25,122.83,5,Annual,No,Churn
+8,29.7,2,Two-year,Yes,No Churn
+6,86.43,1,Monthly,Yes,No Churn
+67,43.66,5,Monthly,Yes,Churn
+41,88.42,0,Annual,No,No Churn
+63,38.85,1,Monthly,Yes,No Churn
+22,89.74,4,Annual,No,No Churn
+68,52.33,1,Two-year,Yes,No Churn
+49,76.56,3,Annual,No,No Churn
+57,88.34,4,Monthly,Yes,No Churn
+41,60.01,0,Monthly,No,Churn
+6,75.86,1,Monthly,Yes,No Churn
+2,115.97,1,Annual,Yes,No Churn
+56,131.56,5,,Yes,No Churn
+29,89.65,1,Two-year,Yes,No Churn
+3,118.57,4,Monthly,No,Churn
+16,120.56,0,Monthly,No,No Churn
+32,49.45,3,Monthly,No,Churn
+57,29.03,1,Monthly,No,No Churn
+53,108.41,0,Annual,Yes,No Churn
+7,85.63,3,Monthly,Yes,Churn
+45,119.77,5,Monthly,No,Churn
+26,61.21,3,Annual,No,No Churn
+61,,2,Monthly,No,No Churn
+44,75.15,1,Two-year,Yes,No Churn
+20,22.99,0,Monthly,Yes,No Churn
+68,101.05,4,Annual,Yes,Churn
+50,98.04,2,Monthly,Yes,No Churn
+7,68.89,3,Annual,No,No Churn
+43,23.72,2,Monthly,No,No Churn
+76,39.31,2,Monthly,No,Churn
+67,36.22,0,Annual,Yes,No Churn
+79,109.21,2,Annual,Yes,Churn
+80,83.0,3,Monthly,Yes,Churn
+66,95.72,4,Monthly,Yes,Churn
+68,43.61,2,Monthly,No,No Churn
+34,88.11,2,Annual,No,Churn
+51,109.97,3,Two-year,Yes,No Churn
+58,111.63,3,Monthly,No,Churn
+4,129.2,0,Monthly,Yes,Churn
+33,82.89,2,Monthly,Yes,No Churn
+32,85.12,3,Monthly,No,No Churn
+38,85.16,2,Two-year,No,No Churn
+72,27.92,2,Annual,Yes,No Churn
+16,105.12,1,Annual,No,Churn
+54,122.26,4,Monthly,Yes,Churn
+68,87.29,0,Annual,Yes,No Churn
+37,68.91,4,Monthly,Yes,Churn
+58,112.69,2,Annual,No,Churn
+10,117.4,4,Annual,Yes,Churn
+21,128.16,3,Monthly,Yes,Churn
+9,85.5,5,Monthly,Yes,Churn
+48,132.22,0,Monthly,Yes,Churn
+42,57.42,1,Two-year,No,No Churn
+72,47.27,3,Annual,No,Churn
+37,131.52,4,Two-year,Yes,No Churn
+65,81.97,2,Monthly,Yes,Churn
+9,83.74,1,Annual,No,No Churn
+3,37.43,0,Two-year,Yes,No Churn
+46,57.47,1,Annual,No,No Churn
+4,99.36,0,Two-year,Yes,Churn
+67,,3,Two-year,Yes,No Churn
+53,28.23,2,Annual,No,No Churn
+57,65.92,2,Monthly,Yes,No Churn
+38,89.36,0,Annual,No,No Churn
+61,34.82,8,,No,Churn
+34,81.48,2,Monthly,Yes,Churn
+25,95.84,1,Monthly,No,No Churn
+36,127.85,4,Monthly,No,Churn
+45,78.88,3,Monthly,No,No Churn
+22,93.89,3,Two-year,Yes,Churn
+48,87.62,3,Monthly,Yes,Churn
+16,97.35,4,Annual,Yes,Churn
+22,34.42,2,Monthly,No,No Churn
+49,35.7,4,Monthly,Yes,No Churn
+34,126.51,3,Monthly,No,Churn
+8,22.88,2,Monthly,Yes,No Churn
+28,100.7,1,Monthly,Yes,Churn
+19,73.57,1,Monthly,No,No Churn
+62,30.47,0,Monthly,Yes,No Churn
+53,60.5,2,Monthly,No,Churn
+49,38.68,2,Annual,No,No Churn
+25,,1,Annual,Yes,No Churn
+13,89.8,2,Annual,No,No Churn
+75,96.83,1,Monthly,Yes,Churn
+7,69.2,3,Two-year,No,Churn
+2,39.06,0,Two-year,No,No Churn
+36,107.83,2,Annual,No,Churn
+64,71.5,2,Two-year,Yes,No Churn
+51,60.86,6,Annual,Yes,No Churn
+67,94.07,0,Monthly,No,No Churn
+1,93.0,3,Annual,Yes,Churn
+34,42.64,3,Monthly,No,Churn
+31,36.34,4,Monthly,Yes,No Churn
+31,105.06,1,Annual,Yes,No Churn
+6,130.41,1,Monthly,Yes,Churn
+75,71.52,1,Two-year,No,No Churn
+6,107.83,3,Monthly,Yes,No Churn
+4,97.38,2,Monthly,Yes,No Churn
+8,123.37,2,Monthly,Yes,Churn
+75,99.47,2,Annual,Yes,No Churn
+43,45.82,1,Monthly,Yes,No Churn
+31,44.18,2,Monthly,No,No Churn
+38,28.17,2,Two-year,No,No Churn
+28,49.1,4,Two-year,No,No Churn
+46,65.99,1,Annual,Yes,No Churn
+7,38.73,1,Annual,Yes,No Churn
+6,79.3,2,Monthly,Yes,Churn
+40,106.2,2,Monthly,Yes,Churn
+39,79.26,1,Monthly,No,Churn
+31,116.55,3,Monthly,Yes,Churn
+18,114.01,0,Monthly,Yes,No Churn
+14,127.53,1,Annual,Yes,No Churn
+68,132.42,4,Annual,Yes,Churn
+47,,1,,No,Churn
+1,35.19,2,Two-year,Yes,No Churn
+4,85.76,3,Monthly,Yes,No Churn
+62,33.87,1,Monthly,No,Churn
+51,96.21,4,Two-year,Yes,No Churn
+65,37.51,0,Monthly,No,No Churn
+43,50.27,3,Monthly,No,Churn
+63,116.01,0,Annual,Yes,No Churn
+77,123.18,5,Two-year,No,Churn
+27,52.02,1,Monthly,No,No Churn
+51,85.48,3,Monthly,No,No Churn
+67,44.19,2,Two-year,Yes,No Churn
+69,25.74,2,Annual,Yes,No Churn
+23,88.45,1,Annual,Yes,No Churn
+9,68.22,3,Monthly,No,Churn
+27,84.71,4,Two-year,Yes,Churn
+35,122.81,1,Annual,Yes,No Churn
+76,102.73,3,Two-year,Yes,No Churn
+62,106.16,2,Monthly,No,No Churn
+47,128.1,0,Monthly,Yes,Churn
+20,107.08,2,Monthly,No,Churn
+2,78.26,2,Two-year,Yes,No Churn
+48,50.34,1,Monthly,No,Churn
+72,79.68,2,Two-year,No,No Churn
+66,99.0,5,Monthly,Yes,No Churn
+2,105.88,2,Two-year,No,No Churn
+6,128.89,2,Monthly,Yes,No Churn
+55,27.59,1,Monthly,No,No Churn
+33,73.33,3,Annual,Yes,Churn
+77,134.78,0,Annual,Yes,No Churn
+28,123.12,2,Monthly,Yes,No Churn
+29,116.91,6,Two-year,Yes,Churn
+8,46.23,4,Monthly,No,No Churn
+49,125.64,4,Annual,Yes,Churn
+46,28.01,0,Monthly,No,No Churn
+20,89.13,1,Two-year,No,No Churn
+11,79.12,3,Monthly,No,No Churn
+40,57.82,5,Annual,Yes,No Churn
+13,42.39,6,Monthly,Yes,Churn
+23,65.31,1,Two-year,Yes,No Churn
+54,29.21,0,Monthly,No,Churn
+23,74.41,3,Monthly,No,No Churn
+50,46.35,2,Two-year,Yes,No Churn
+58,70.06,4,Annual,Yes,No Churn
+2,40.0,2,Two-year,Yes,No Churn
+18,50.55,3,Annual,No,No Churn
+36,46.59,3,Two-year,No,No Churn
+71,95.96,1,Monthly,Yes,No Churn
+65,58.15,2,Annual,Yes,No Churn
+19,112.22,3,Monthly,Yes,Churn
+44,65.35,4,Two-year,Yes,Churn
+61,108.83,0,Annual,Yes,No Churn
+57,53.0,2,Monthly,Yes,No Churn
+20,57.04,2,Monthly,Yes,No Churn
+54,71.98,1,Annual,Yes,Churn
+7,64.22,1,Monthly,Yes,No Churn
+62,43.45,1,Monthly,Yes,No Churn
+56,59.84,4,Two-year,Yes,No Churn
+51,90.18,4,Annual,No,No Churn
+14,127.3,4,Annual,Yes,Churn
+70,47.13,1,Two-year,Yes,No Churn
+14,86.34,1,Monthly,No,Churn
+29,87.81,4,Annual,No,Churn
+44,51.97,3,Monthly,No,No Churn
+76,88.34,1,Annual,No,No Churn
+60,48.5,1,Monthly,Yes,No Churn
+20,114.18,1,Monthly,Yes,Churn
+49,133.72,2,Monthly,Yes,No Churn
+24,100.26,3,Monthly,No,Churn
+68,114.77,2,Monthly,No,Churn
+39,91.0,1,Monthly,Yes,No Churn
+48,70.11,1,Annual,Yes,Churn
+26,40.0,6,Two-year,Yes,No Churn
+70,86.96,3,Annual,Yes,No Churn
+76,44.23,3,Annual,No,No Churn
+67,66.19,0,Two-year,No,No Churn
+15,58.87,2,Monthly,No,Churn
+21,40.19,1,Monthly,Yes,No Churn
+48,27.74,1,Monthly,No,No Churn
+52,119.94,3,Monthly,No,Churn
+3,86.05,0,Monthly,Yes,No Churn
+80,105.5,3,Annual,Yes,Churn
+21,104.38,1,Annual,Yes,No Churn
+43,24.29,3,Monthly,Yes,No Churn
+53,117.49,3,Monthly,Yes,Churn
+67,56.03,1,Annual,Yes,Churn
+16,79.73,1,Monthly,Yes,Churn
+77,22.5,2,Annual,Yes,No Churn
+22,53.08,2,Annual,No,Churn
+76,82.67,0,Monthly,No,No Churn
+33,63.18,2,Annual,Yes,No Churn
+5,53.7,2,Monthly,No,Churn
+67,78.55,2,Monthly,Yes,No Churn
+18,33.28,6,Monthly,Yes,Churn
+4,91.65,3,Monthly,No,Churn
+12,80.53,1,Monthly,Yes,Churn
+73,103.83,2,Monthly,Yes,Churn
+76,97.68,5,Two-year,Yes,Churn
+30,82.18,3,Monthly,Yes,Churn
+3,82.4,2,Monthly,No,Churn
+38,76.64,3,Monthly,Yes,No Churn
+80,35.35,3,Monthly,Yes,Churn
+58,91.69,4,Monthly,No,Churn
+19,115.35,2,Annual,No,No Churn
+22,110.12,5,Monthly,Yes,Churn
+20,122.63,3,Monthly,Yes,No Churn
+27,79.98,3,Two-year,Yes,No Churn
+70,40.7,3,Monthly,Yes,Churn
+58,82.85,3,Two-year,Yes,No Churn
+47,31.59,5,Monthly,Yes,Churn
+3,122.46,4,Two-year,Yes,Churn
+60,128.13,3,Annual,Yes,No Churn
+72,74.78,0,Annual,No,Churn
+14,58.66,1,Annual,Yes,No Churn
+79,40.42,3,Monthly,Yes,Churn
+34,101.16,2,Two-year,No,No Churn
+67,41.41,4,Monthly,Yes,No Churn
+11,36.9,2,Annual,No,No Churn
+74,36.42,2,Annual,No,No Churn
+27,24.68,2,Monthly,Yes,No Churn
+29,130.77,1,Monthly,Yes,Churn
+58,32.6,2,Two-year,Yes,No Churn
+78,41.7,0,Monthly,Yes,No Churn
+72,36.41,4,Annual,No,No Churn
+23,58.8,3,Annual,No,No Churn
+73,85.06,2,Monthly,No,Churn
+52,48.24,1,Annual,Yes,No Churn
+58,46.65,3,Monthly,No,Churn
+47,23.88,2,Annual,Yes,No Churn
+2,109.96,2,Monthly,No,Churn
+79,101.68,2,Annual,Yes,No Churn
+49,103.97,2,Annual,Yes,No Churn
+23,,3,Two-year,Yes,No Churn
+46,126.05,2,Monthly,No,Churn
+45,108.32,2,Monthly,Yes,Churn
+3,108.6,3,Two-year,Yes,Churn
+27,24.1,3,Monthly,Yes,No Churn
+47,81.97,6,Two-year,Yes,Churn
+14,51.63,1,Two-year,No,No Churn
+23,33.74,4,Annual,No,No Churn
+69,39.77,4,Two-year,No,No Churn
+46,56.66,1,Annual,No,No Churn
+66,40.39,2,Monthly,Yes,No Churn
+16,95.44,2,Monthly,Yes,Churn
+65,39.53,1,Monthly,No,No Churn
+77,85.18,1,Two-year,Yes,No Churn
+54,46.4,6,Monthly,Yes,No Churn
+58,,5,Monthly,No,Churn
+19,89.43,1,Annual,Yes,No Churn
+78,43.8,2,Two-year,Yes,Churn
+15,32.99,1,Two-year,Yes,No Churn
+75,79.97,4,Monthly,No,Churn
+50,66.48,4,Annual,No,Churn
+49,98.67,0,Annual,Yes,No Churn
+9,52.39,3,Two-year,Yes,No Churn
+22,22.28,2,Annual,Yes,No Churn
+55,64.65,4,Annual,Yes,No Churn
+18,73.25,2,Annual,No,No Churn
+48,80.66,1,Annual,Yes,Churn
+39,87.06,4,Monthly,No,Churn
+59,51.52,4,Annual,No,Churn
+14,60.94,3,Monthly,Yes,Churn
+7,70.38,0,Monthly,No,No Churn
+55,128.35,3,Annual,Yes,No Churn
+33,32.92,4,Monthly,Yes,Churn
+50,81.25,4,Monthly,Yes,Churn
+49,87.76,5,Two-year,Yes,Churn
+72,114.88,3,Monthly,No,Churn
+30,52.15,2,Monthly,No,Churn
+32,77.43,1,Annual,Yes,No Churn
+80,79.08,3,Monthly,No,No Churn
+38,75.82,1,Annual,Yes,Churn
+3,130.13,2,Monthly,Yes,Churn
+79,123.08,1,Annual,Yes,No Churn
+42,43.14,5,Two-year,Yes,No Churn
+58,71.37,3,Two-year,Yes,No Churn
+27,45.4,3,Monthly,Yes,No Churn
+49,81.43,2,Monthly,Yes,Churn
+28,45.69,3,Annual,No,No Churn
+60,113.78,4,Monthly,Yes,Churn
+48,27.48,2,Monthly,Yes,Churn
+29,124.08,0,Monthly,Yes,No Churn
+4,102.02,1,Annual,Yes,No Churn
+47,111.04,2,Monthly,Yes,Churn
+24,90.18,1,Monthly,No,No Churn
+26,49.06,3,Annual,No,Churn
+80,130.27,4,Annual,Yes,Churn
+32,128.93,2,Monthly,Yes,No Churn
+17,100.3,3,Annual,No,Churn
+18,80.07,1,Annual,Yes,No Churn
+1,131.55,0,Monthly,Yes,Churn
+36,53.71,3,Two-year,No,No Churn
+1,26.43,4,Monthly,No,Churn
+2,48.07,1,Monthly,No,Churn
+42,43.4,1,Annual,No,No Churn
+49,31.43,3,Annual,Yes,No Churn
+80,38.0,1,Monthly,Yes,Churn
+5,66.16,2,Monthly,No,Churn
+41,32.45,5,Monthly,No,Churn
+62,52.43,1,Two-year,Yes,No Churn
+41,104.45,4,Monthly,Yes,Churn
+72,66.06,3,Annual,Yes,No Churn
+78,,0,Monthly,No,No Churn
+14,61.6,1,Two-year,No,No Churn
+19,132.05,1,Annual,Yes,No Churn
+1,60.67,1,Monthly,Yes,No Churn
+61,79.14,0,,No,Churn
+69,129.02,6,Monthly,No,Churn
+58,93.73,4,Monthly,Yes,Churn
+61,45.91,4,Monthly,No,Churn
+63,50.86,0,Monthly,Yes,No Churn
+66,71.92,5,Monthly,Yes,Churn
+29,96.99,1,Annual,Yes,No Churn
+60,118.27,5,Annual,No,No Churn
+56,23.61,6,Monthly,Yes,Churn
+6,113.42,1,Two-year,Yes,Churn
+31,40.57,2,Annual,No,No Churn
+33,92.02,1,Two-year,No,No Churn
+41,54.69,4,Monthly,No,Churn
+73,25.26,2,Monthly,No,No Churn
+77,37.29,3,Monthly,Yes,No Churn
+68,26.09,4,Monthly,No,No Churn
+52,26.32,1,Monthly,Yes,No Churn
+75,111.34,2,Monthly,Yes,No Churn
+3,94.99,3,Two-year,No,No Churn
+40,81.54,6,Annual,No,No Churn
+9,90.37,5,Monthly,Yes,Churn
+25,42.82,2,Monthly,Yes,No Churn
+71,132.55,2,Monthly,Yes,No Churn
+45,77.13,0,Monthly,Yes,No Churn
+19,69.74,1,Two-year,Yes,Churn
+27,75.1,2,Two-year,Yes,No Churn
+72,107.31,2,Annual,Yes,Churn
+31,127.5,3,Monthly,Yes,Churn
+61,90.68,2,Monthly,No,Churn
+41,111.1,2,Monthly,Yes,Churn
+38,57.38,2,Monthly,No,Churn
+13,68.38,2,Annual,No,No Churn
+26,69.15,2,Monthly,Yes,No Churn
+63,60.72,2,Monthly,No,No Churn
+4,46.36,0,Monthly,Yes,No Churn
+64,116.17,2,Monthly,Yes,Churn
+23,129.18,2,Monthly,No,Churn
+25,69.81,3,Annual,Yes,No Churn
+52,70.34,2,Monthly,No,Churn
+37,67.83,0,Annual,Yes,No Churn
+42,24.37,4,Monthly,Yes,No Churn
+42,99.48,3,Annual,No,Churn
+43,117.09,3,Monthly,Yes,Churn
+63,122.52,2,Monthly,Yes,Churn
+71,76.04,2,Monthly,Yes,Churn
+38,133.08,1,Monthly,Yes,Churn
+11,131.89,0,Monthly,Yes,Churn
+78,104.42,1,Annual,No,No Churn
+24,67.17,3,Monthly,Yes,No Churn
+39,100.47,2,Monthly,No,Churn
+43,108.94,2,Two-year,No,No Churn
+26,103.38,2,Monthly,Yes,No Churn
+34,80.39,1,Monthly,Yes,No Churn
+63,116.29,3,Monthly,No,Churn
+17,62.55,0,Two-year,Yes,No Churn
+25,63.74,1,Monthly,Yes,No Churn
+61,27.36,2,Monthly,No,Churn
+71,98.92,2,Monthly,Yes,Churn
+36,34.16,3,Two-year,No,No Churn
+74,33.7,3,Monthly,Yes,No Churn
+29,38.43,3,Monthly,No,Churn
+41,131.36,1,Two-year,No,No Churn
+78,76.59,0,,Yes,No Churn
+78,50.76,3,Monthly,Yes,No Churn
+24,74.82,1,Annual,Yes,No Churn
+69,86.78,2,Annual,No,No Churn
+27,104.03,3,,Yes,Churn
+36,90.69,0,Monthly,No,No Churn
+36,71.02,3,Two-year,Yes,No Churn
+4,58.9,2,Two-year,Yes,No Churn
+40,114.43,5,Annual,Yes,Churn
+74,50.94,7,Annual,Yes,No Churn
+47,56.22,2,Monthly,No,Churn
+51,68.56,4,Monthly,No,Churn
+48,115.33,4,Annual,Yes,Churn
+32,38.17,2,Two-year,No,No Churn
+15,84.71,2,Annual,No,Churn
+46,70.77,4,Annual,No,No Churn
+54,122.22,3,Monthly,Yes,No Churn
+19,46.82,0,,Yes,No Churn
+7,75.47,6,Annual,Yes,Churn
+28,132.52,1,Monthly,Yes,Churn
+76,117.71,0,,Yes,No Churn
+27,51.56,1,Monthly,Yes,No Churn
+27,74.28,3,Annual,Yes,No Churn
+12,69.85,2,Monthly,No,No Churn
+44,109.13,1,Monthly,No,No Churn
+2,66.68,0,Monthly,Yes,Churn
+13,74.81,3,Monthly,No,Churn
+70,47.42,2,Monthly,Yes,No Churn
+74,41.46,0,Two-year,No,No Churn
+72,67.06,1,Monthly,No,Churn
+32,95.62,1,Monthly,Yes,Churn
+23,111.49,3,Monthly,Yes,No Churn
+74,100.7,5,Monthly,Yes,Churn
+65,78.05,1,Annual,Yes,No Churn
+30,62.94,1,Monthly,Yes,No Churn
+39,52.43,0,Monthly,No,Churn
+57,23.84,4,Annual,Yes,No Churn
+13,35.97,2,Annual,Yes,No Churn
+29,100.3,1,Annual,Yes,No Churn
+13,58.78,1,Monthly,Yes,No Churn
+56,52.05,1,Two-year,Yes,No Churn
+56,113.3,3,Monthly,Yes,Churn
+27,121.73,1,Monthly,Yes,No Churn
+30,66.86,2,Annual,No,Churn
+12,47.41,5,Monthly,Yes,Churn
+25,54.37,0,Monthly,Yes,No Churn
+54,36.45,4,Two-year,Yes,No Churn
+38,28.0,3,Annual,Yes,No Churn
+52,119.48,3,Monthly,No,No Churn
+4,92.77,2,Annual,No,Churn
+68,61.98,3,Annual,No,Churn
+21,55.59,4,Monthly,Yes,Churn
+9,,3,Monthly,No,Churn
+17,102.05,1,Annual,No,No Churn
+3,66.33,4,Monthly,Yes,No Churn
+10,48.55,1,Annual,No,No Churn
+29,88.48,3,Annual,No,Churn
+29,68.6,1,Annual,Yes,No Churn
+18,52.1,4,Monthly,Yes,No Churn
+59,120.16,0,Monthly,Yes,Churn
+43,122.86,0,Annual,Yes,No Churn
+77,117.5,3,Annual,No,No Churn
+79,50.79,4,Monthly,Yes,Churn
+57,134.38,2,Two-year,No,Churn
+15,61.12,2,Monthly,No,No Churn
+51,54.53,3,Annual,Yes,No Churn
+39,51.13,1,Annual,Yes,No Churn
+71,82.51,2,Annual,No,No Churn
+39,98.78,2,Monthly,Yes,No Churn
+38,73.31,3,Annual,Yes,No Churn
+59,50.13,4,Monthly,Yes,No Churn
+43,74.55,2,Monthly,Yes,Churn
+20,26.39,3,Monthly,Yes,No Churn
+37,25.25,1,Monthly,Yes,Churn
+2,95.21,3,Two-year,Yes,Churn
+44,61.56,3,Monthly,No,Churn
+65,85.68,1,Monthly,Yes,Churn
+47,108.19,3,Monthly,Yes,Churn
+44,129.65,2,Two-year,No,Churn
+23,74.12,2,Monthly,Yes,Churn
+1,102.11,1,Two-year,Yes,No Churn
+63,107.06,2,Annual,No,No Churn
+73,83.37,0,Annual,Yes,No Churn
+64,55.22,0,Monthly,No,No Churn
+47,33.69,3,Monthly,No,No Churn
+80,28.03,0,Two-year,No,No Churn
+19,122.85,2,Annual,No,Churn
+67,126.24,2,Two-year,Yes,Churn
+51,93.9,2,Two-year,Yes,No Churn
+20,41.64,5,Monthly,Yes,Churn
+51,44.2,1,Annual,Yes,No Churn
+35,93.93,3,Annual,Yes,No Churn
+11,41.64,6,Annual,No,Churn
+12,29.21,2,Monthly,Yes,No Churn
+58,120.38,0,Two-year,No,Churn
+33,115.72,3,Monthly,Yes,Churn
+31,82.98,1,Annual,Yes,Churn
+80,31.63,1,Annual,Yes,No Churn
+14,22.49,2,Monthly,No,No Churn
+15,108.33,2,Annual,Yes,No Churn
+40,82.03,1,Annual,No,No Churn
+15,96.08,0,Monthly,Yes,No Churn
+18,55.9,2,Monthly,Yes,Churn
+80,134.91,4,Monthly,Yes,Churn
+11,62.94,3,Annual,No,No Churn
+56,44.76,2,Monthly,No,No Churn
+17,96.07,1,Annual,Yes,No Churn
+4,108.0,3,Annual,Yes,No Churn
+56,46.63,2,Annual,Yes,No Churn
+61,31.53,2,Annual,No,No Churn
+22,70.54,4,Monthly,Yes,No Churn
+60,55.84,2,Annual,No,No Churn
+39,66.57,1,Annual,No,No Churn
+20,74.94,0,Monthly,No,Churn
+68,78.65,2,Two-year,Yes,Churn
+66,33.09,6,Two-year,Yes,No Churn
+15,70.46,0,Monthly,Yes,No Churn
+2,44.17,2,Annual,Yes,No Churn
+17,57.38,5,Monthly,No,Churn
+70,114.31,2,Monthly,No,No Churn
+40,48.02,2,Monthly,No,No Churn
+69,83.25,4,Monthly,No,Churn
+45,102.0,2,Annual,No,No Churn
+56,62.37,3,Monthly,No,No Churn
+62,96.07,1,Annual,Yes,No Churn
+26,91.94,1,Monthly,Yes,No Churn
+13,127.45,4,Monthly,No,Churn
+29,,1,Annual,Yes,No Churn
+17,109.23,2,Monthly,Yes,No Churn
+36,27.91,1,Annual,No,No Churn
+27,24.04,5,Two-year,Yes,Churn
+58,52.2,4,Two-year,Yes,Churn
+21,31.22,2,Monthly,No,No Churn
+61,108.97,1,Monthly,Yes,Churn
+22,129.72,3,Monthly,Yes,Churn
+9,28.28,1,Annual,No,No Churn
+65,59.7,2,Annual,No,No Churn
+74,100.18,2,Monthly,No,Churn
+24,62.01,1,Monthly,Yes,No Churn
+21,129.14,5,Monthly,No,Churn
+80,118.88,1,Two-year,Yes,No Churn
+56,80.13,2,Annual,Yes,Churn
+14,44.72,1,Monthly,No,Churn
+6,62.87,2,Monthly,Yes,Churn
+29,68.46,1,Annual,Yes,No Churn
+67,27.81,1,Annual,No,No Churn
+7,120.91,2,Monthly,Yes,Churn
+53,74.81,3,Annual,Yes,No Churn
+17,36.5,1,Monthly,No,No Churn
+22,51.13,2,Monthly,Yes,Churn
+67,65.81,2,Monthly,Yes,No Churn
+36,88.09,1,Annual,Yes,No Churn
+16,98.43,5,Monthly,Yes,Churn
+75,27.27,1,Monthly,Yes,No Churn
+69,,1,Monthly,No,Churn
+77,52.77,1,Monthly,No,No Churn
+66,72.72,3,Monthly,Yes,Churn
+13,78.0,5,Monthly,Yes,Churn
+36,70.38,3,Monthly,Yes,No Churn
+73,84.64,3,Monthly,No,Churn
+76,73.48,0,Monthly,No,No Churn
+37,105.78,0,Annual,Yes,No Churn
+62,92.0,1,Monthly,Yes,No Churn
+16,27.0,3,Monthly,Yes,No Churn
+19,130.37,3,Monthly,Yes,Churn
+61,70.11,3,Annual,Yes,No Churn
+30,93.73,2,Two-year,Yes,No Churn
+2,49.1,1,Annual,Yes,No Churn
+11,87.77,1,Annual,Yes,Churn
+78,73.98,2,Monthly,Yes,No Churn
+24,36.8,1,Two-year,Yes,No Churn
+10,32.27,1,Monthly,Yes,No Churn
+73,71.26,3,Annual,No,No Churn
+18,69.57,4,Two-year,No,No Churn
+18,61.41,3,Monthly,Yes,Churn
+31,23.86,1,Annual,Yes,No Churn
+39,112.64,6,Monthly,No,Churn
+47,127.39,2,Monthly,Yes,No Churn
+13,101.45,5,Two-year,Yes,Churn
+76,114.45,1,Monthly,No,No Churn
+26,44.15,3,Monthly,Yes,No Churn
+29,44.22,3,Annual,Yes,Churn
+17,42.49,2,Monthly,Yes,No Churn
+67,58.08,2,Monthly,No,Churn
+3,64.21,2,Monthly,No,Churn
+7,117.81,1,Monthly,Yes,Churn
+22,114.78,2,Annual,No,Churn
+30,72.89,3,Two-year,No,No Churn
+32,133.17,1,Monthly,No,Churn
+28,103.75,3,Monthly,Yes,Churn
+8,100.38,1,Monthly,Yes,Churn
+35,33.3,3,Monthly,No,No Churn
+80,58.9,2,Annual,Yes,Churn
+36,48.64,2,Annual,No,No Churn
+41,112.23,4,Annual,Yes,Churn
+48,65.64,5,Annual,No,Churn
+60,125.63,2,Monthly,Yes,No Churn
+27,25.76,1,Annual,No,No Churn
+7,113.49,1,Annual,Yes,No Churn
+9,56.57,0,Monthly,No,No Churn
+29,40.82,1,Two-year,Yes,No Churn
+5,115.61,3,Monthly,Yes,No Churn
+8,72.58,1,Annual,Yes,Churn
+70,39.16,2,Monthly,Yes,No Churn
+58,80.26,1,Annual,No,Churn
+42,78.83,3,Two-year,Yes,No Churn
+72,77.3,3,Two-year,No,No Churn
+14,93.54,4,Monthly,Yes,No Churn
+42,117.27,1,Annual,Yes,No Churn
+21,48.3,1,Annual,Yes,No Churn
+49,87.98,0,Two-year,No,No Churn
+30,40.43,2,Monthly,Yes,Churn
+79,57.81,2,Annual,No,Churn
+38,134.7,7,Annual,No,Churn
+55,120.31,2,Monthly,No,Churn
+8,72.42,4,Monthly,Yes,No Churn
+71,,2,Monthly,Yes,Churn
+38,58.26,2,Monthly,Yes,No Churn
+19,110.49,0,Monthly,Yes,Churn
+3,43.61,3,Annual,Yes,No Churn
+27,71.4,2,Monthly,No,No Churn
+19,30.31,1,Annual,Yes,No Churn
+3,81.29,2,Monthly,Yes,Churn
+35,44.14,0,Monthly,Yes,Churn
+59,111.9,1,Annual,Yes,Churn
+72,35.2,0,Monthly,Yes,No Churn
+7,60.55,4,Annual,No,No Churn
+76,69.89,2,Monthly,No,No Churn
+15,117.92,5,Monthly,Yes,Churn
+5,130.74,2,Annual,Yes,No Churn
+33,130.55,1,Monthly,No,No Churn
+31,58.39,0,Annual,No,No Churn
+75,98.06,3,Two-year,Yes,No Churn
+9,,3,Monthly,Yes,Churn
+62,112.53,2,Annual,No,Churn
+60,32.56,2,Monthly,Yes,No Churn
+31,119.88,3,Two-year,No,No Churn
+37,38.03,0,Monthly,Yes,No Churn
+38,48.07,1,Annual,No,No Churn
+16,90.63,1,Two-year,No,No Churn
+1,108.44,1,Annual,No,Churn
+53,126.1,2,Annual,No,No Churn
+79,58.64,2,Two-year,No,No Churn
+31,,0,Two-year,No,No Churn
+42,98.86,0,Annual,Yes,No Churn
+68,87.15,1,Monthly,No,No Churn
+39,110.02,3,,No,Churn
+27,68.77,5,Monthly,No,Churn
+28,85.78,4,Monthly,No,Churn
+65,27.36,3,Annual,Yes,No Churn
+33,129.1,3,Monthly,Yes,Churn
+19,50.93,1,Monthly,No,No Churn
+42,134.87,4,Monthly,No,Churn
+34,22.09,2,Monthly,No,Churn
+22,96.04,2,Monthly,Yes,Churn
+11,33.03,2,Monthly,Yes,Churn
+16,41.05,1,Two-year,Yes,No Churn
+23,121.31,1,Monthly,Yes,Churn
+80,133.77,2,Two-year,Yes,No Churn
+64,27.08,2,Monthly,Yes,No Churn
+4,87.98,2,Annual,Yes,No Churn
+3,123.35,1,Annual,Yes,No Churn
+19,100.95,2,Monthly,Yes,Churn
+32,53.17,5,Annual,Yes,Churn
+10,87.05,1,Annual,No,No Churn
+68,33.02,0,Two-year,Yes,No Churn
+24,66.49,2,Two-year,Yes,No Churn
+32,54.37,1,Annual,Yes,No Churn
+40,96.37,1,Monthly,Yes,No Churn
+7,122.0,3,Monthly,Yes,Churn
+26,110.92,0,Annual,No,Churn
+19,100.42,2,Two-year,Yes,Churn
+37,44.92,2,Monthly,Yes,No Churn
+4,93.3,2,Annual,Yes,No Churn
+36,32.35,5,Annual,No,No Churn
+53,38.43,0,Two-year,Yes,No Churn
+66,130.18,1,Monthly,Yes,No Churn
+58,47.55,2,Monthly,Yes,No Churn
+44,51.26,2,Monthly,Yes,No Churn
+65,66.07,1,,Yes,No Churn
+70,27.08,2,Two-year,No,No Churn
+10,97.77,0,Monthly,No,Churn
+4,85.89,4,Monthly,Yes,Churn
+17,32.22,1,Monthly,Yes,Churn
+28,38.4,0,Two-year,No,No Churn
+63,85.42,2,Monthly,Yes,Churn
+56,85.74,1,Two-year,No,No Churn
+51,67.34,3,Monthly,Yes,No Churn
+74,32.46,3,Annual,No,No Churn
+33,83.88,0,Two-year,Yes,No Churn
+9,126.86,2,Monthly,No,Churn
+18,45.36,1,Two-year,Yes,No Churn
+57,57.23,4,Two-year,No,No Churn
+19,42.7,2,Monthly,Yes,No Churn
+62,124.68,0,Annual,Yes,No Churn
+54,,2,Monthly,Yes,No Churn
+80,49.14,1,Annual,No,Churn
+5,50.22,1,Annual,Yes,No Churn
+17,113.49,4,Monthly,Yes,No Churn
+25,85.43,2,Annual,Yes,No Churn
+9,105.04,2,Monthly,Yes,Churn
+51,28.75,3,Monthly,Yes,No Churn
+47,97.09,0,Monthly,No,Churn
+31,103.09,4,Annual,No,No Churn
+8,42.27,2,Annual,Yes,No Churn
+20,124.25,3,Annual,No,No Churn
+54,56.8,1,Annual,No,No Churn
+27,116.89,0,Monthly,Yes,No Churn
+30,41.55,1,Two-year,Yes,No Churn
+4,106.91,3,Annual,Yes,Churn
+53,101.25,2,Monthly,No,Churn
+17,46.31,0,Monthly,Yes,No Churn
+75,67.6,1,Monthly,No,No Churn
+42,109.6,1,Annual,Yes,Churn
+66,36.32,1,Monthly,Yes,No Churn
+76,43.88,4,Two-year,Yes,No Churn
+43,92.76,5,Two-year,No,Churn
+54,90.54,1,Two-year,Yes,No Churn
+7,80.69,1,Two-year,Yes,Churn
+72,120.2,4,Monthly,Yes,Churn
+20,107.66,3,Monthly,Yes,No Churn
+44,85.61,4,,No,No Churn
+57,,1,Annual,Yes,No Churn
+34,70.75,1,Monthly,Yes,No Churn
+41,117.91,0,Monthly,Yes,Churn
+34,88.77,2,Monthly,Yes,No Churn
+57,34.87,3,Two-year,Yes,No Churn
+71,132.47,1,Monthly,No,Churn
+73,79.81,4,Monthly,No,Churn
+51,109.13,2,Two-year,No,No Churn
+74,57.82,0,Monthly,No,No Churn
+74,121.61,1,Annual,No,No Churn
+17,133.18,2,Monthly,No,Churn
+45,48.17,2,Monthly,No,No Churn
+72,,0,Monthly,Yes,No Churn
+60,83.41,2,Annual,Yes,No Churn
+46,71.32,0,Annual,Yes,No Churn
+78,103.86,0,Annual,No,No Churn
+59,96.2,1,Annual,Yes,No Churn
+46,93.86,6,Monthly,No,Churn
+12,124.41,1,Annual,Yes,Churn
+62,57.38,3,Monthly,Yes,Churn
+73,88.43,2,Two-year,Yes,No Churn
+36,32.87,0,Monthly,Yes,No Churn
+32,83.74,2,Monthly,No,Churn
+19,65.31,0,Monthly,Yes,Churn
+19,46.2,5,Monthly,No,Churn
+18,62.47,2,Monthly,Yes,No Churn
+16,33.39,2,Monthly,Yes,Churn
+17,92.59,2,Two-year,Yes,Churn
+37,130.41,1,Monthly,Yes,No Churn
+58,,3,Annual,No,No Churn
+64,107.21,0,Annual,Yes,No Churn
+31,83.89,1,Monthly,No,Churn
+25,53.46,2,Annual,Yes,No Churn
+72,84.7,0,Two-year,No,Churn
+44,72.69,1,Two-year,Yes,No Churn
+35,30.96,2,Monthly,Yes,No Churn
+39,111.49,2,Monthly,No,Churn
+72,57.95,1,Two-year,Yes,No Churn
+7,129.56,6,Monthly,Yes,Churn
+33,73.44,1,Monthly,Yes,Churn
+14,105.22,2,Monthly,Yes,Churn
+68,70.73,2,Annual,Yes,No Churn
+12,73.65,2,Monthly,Yes,No Churn
+11,71.26,2,Two-year,No,No Churn
+16,33.01,3,Monthly,Yes,No Churn
+80,24.57,1,Monthly,No,Churn
+21,117.76,3,Monthly,No,Churn
+40,111.51,5,Two-year,No,No Churn
+80,106.0,4,Two-year,Yes,Churn
+11,,2,Annual,No,No Churn
+14,54.06,0,Annual,Yes,No Churn
+2,43.91,1,Annual,Yes,No Churn
+11,132.7,1,Monthly,No,Churn
+75,88.06,1,Annual,Yes,No Churn
+71,124.64,1,Monthly,Yes,Churn
+47,36.25,1,Annual,Yes,No Churn
+14,36.12,3,Monthly,No,No Churn
+28,26.0,1,Monthly,Yes,No Churn
+19,84.67,4,Two-year,Yes,No Churn
+26,95.2,0,Two-year,Yes,No Churn
+9,42.8,3,Monthly,Yes,No Churn
+43,78.77,1,Annual,Yes,No Churn
+24,115.88,3,Monthly,Yes,Churn
+34,27.44,4,Two-year,No,No Churn
+52,132.31,4,Monthly,Yes,Churn
+40,51.0,3,Annual,No,Churn
+5,46.84,1,Two-year,No,No Churn
+37,83.73,1,Monthly,No,Churn
+61,134.91,2,,Yes,Churn
+62,123.91,4,Monthly,Yes,Churn
+7,23.81,4,Monthly,No,Churn
+64,78.74,4,Two-year,Yes,No Churn
+44,59.01,1,Two-year,Yes,No Churn
+73,126.8,3,Two-year,Yes,No Churn
+50,52.34,2,Monthly,Yes,No Churn
+30,126.49,4,Monthly,Yes,No Churn
+36,72.33,0,Monthly,No,No Churn
+30,128.73,0,Two-year,Yes,Churn
+57,119.66,6,Monthly,No,Churn
+54,61.58,2,Monthly,Yes,Churn
+44,120.65,4,Monthly,No,Churn
+30,26.78,3,Monthly,No,No Churn
+45,79.47,5,Monthly,No,Churn
+24,126.36,1,Monthly,Yes,No Churn
+76,52.34,0,Monthly,No,No Churn
+67,75.02,0,Monthly,Yes,No Churn
+71,23.98,2,Monthly,Yes,No Churn
+51,122.62,5,Monthly,Yes,Churn
+62,34.6,1,Annual,Yes,No Churn
+61,86.92,4,Annual,Yes,No Churn
+10,42.81,4,Monthly,Yes,No Churn
+19,48.23,1,Annual,No,No Churn
+27,69.52,2,Monthly,Yes,Churn
+55,49.73,0,Monthly,Yes,No Churn
+47,133.96,1,Two-year,Yes,No Churn
+56,90.67,0,Annual,Yes,Churn
+9,98.85,2,Annual,Yes,No Churn
+45,61.03,1,Two-year,Yes,No Churn
+45,62.48,1,Annual,No,No Churn
+77,,6,Monthly,Yes,Churn
+58,86.6,2,Annual,Yes,No Churn
+76,80.41,0,Monthly,Yes,No Churn
+15,26.14,3,Annual,Yes,No Churn
+61,104.11,5,Monthly,Yes,Churn
+22,24.81,2,Monthly,No,No Churn
+59,91.14,1,Monthly,Yes,Churn
+63,117.53,4,Monthly,No,Churn
+66,45.55,2,Annual,Yes,No Churn
+54,42.77,3,Monthly,No,No Churn
+20,99.39,0,Monthly,Yes,Churn
+41,37.62,2,Annual,No,No Churn
+2,70.81,3,Two-year,No,Churn
+28,73.72,0,Monthly,No,Churn
+64,31.86,5,Annual,No,Churn
+49,116.45,2,Annual,Yes,Churn
+38,26.12,3,Monthly,Yes,Churn
+29,73.52,4,Monthly,Yes,Churn
+10,93.19,1,Annual,Yes,No Churn
+72,122.57,2,Two-year,Yes,No Churn
+27,99.0,0,Two-year,Yes,Churn
+68,53.92,2,Monthly,No,No Churn
+60,86.08,2,Monthly,No,No Churn
+52,119.64,1,Annual,Yes,No Churn
+22,38.57,2,Annual,No,No Churn
+36,76.3,2,Monthly,No,Churn
+11,116.95,4,Annual,No,No Churn
+16,55.54,1,Monthly,Yes,Churn
+76,34.09,2,Monthly,Yes,No Churn
+41,34.58,5,Monthly,No,Churn
+62,54.88,3,Annual,Yes,No Churn
+53,83.7,2,Annual,Yes,No Churn
+16,61.54,1,Two-year,Yes,No Churn
+7,93.13,0,Monthly,Yes,No Churn
+36,48.48,2,Monthly,Yes,No Churn
+79,110.16,0,Monthly,No,Churn
+48,112.63,1,Annual,No,No Churn
+12,114.75,2,Monthly,Yes,No Churn
+75,99.34,1,Monthly,No,Churn
+71,116.35,3,Annual,Yes,No Churn
+37,97.44,1,Annual,Yes,No Churn
+4,84.31,1,Annual,No,No Churn
+57,77.6,1,Monthly,Yes,No Churn
+39,24.83,1,Annual,Yes,No Churn
+80,97.58,5,Annual,Yes,Churn
+9,83.69,0,Annual,Yes,Churn
+53,25.8,5,Annual,No,Churn
+62,49.33,2,Annual,No,No Churn
+39,34.01,3,Two-year,No,No Churn
+77,69.98,3,Annual,Yes,No Churn
+36,82.32,3,Annual,No,No Churn
+7,112.1,5,Annual,Yes,Churn
+1,109.78,4,Annual,Yes,No Churn
+55,31.12,2,Annual,No,Churn
+46,87.18,1,Monthly,Yes,No Churn
+41,108.24,1,Monthly,No,No Churn
+14,24.18,0,Annual,No,No Churn
+24,46.2,3,Annual,No,Churn
+40,80.01,2,Annual,Yes,No Churn
+18,124.99,1,Monthly,Yes,No Churn
+15,23.27,2,Annual,No,No Churn
+39,132.64,0,Monthly,Yes,No Churn
+40,130.41,2,Two-year,Yes,No Churn
+59,65.33,3,Annual,No,Churn
+33,102.12,1,Two-year,No,No Churn
+67,26.45,0,Annual,Yes,No Churn
+7,119.56,2,Monthly,No,Churn
+73,134.55,3,Monthly,Yes,Churn
+59,53.22,2,Monthly,Yes,No Churn
+61,131.93,4,Two-year,Yes,No Churn
+6,93.94,2,Monthly,No,No Churn
+56,133.8,1,Monthly,Yes,No Churn
+58,130.91,2,Monthly,No,Churn
+64,95.96,0,Two-year,Yes,No Churn
+23,77.15,1,Monthly,Yes,No Churn
+77,95.43,3,Annual,No,Churn
+28,45.09,2,Monthly,Yes,No Churn
+65,68.69,1,,No,No Churn
+29,107.58,1,Two-year,Yes,No Churn
+57,98.66,2,Annual,No,No Churn
+24,65.02,5,Annual,No,No Churn
+63,130.13,1,Annual,No,Churn
+65,87.01,0,Monthly,No,Churn
+47,26.65,1,Monthly,No,No Churn
+55,119.4,5,Two-year,Yes,Churn
+14,53.85,3,Monthly,No,No Churn
+39,73.39,3,Monthly,No,No Churn
+35,54.19,1,Annual,No,No Churn
+12,119.46,3,Two-year,No,Churn
+80,35.6,4,Annual,No,Churn
+80,79.19,5,Monthly,Yes,Churn
+36,58.61,5,Monthly,Yes,Churn
+38,65.85,4,Monthly,No,Churn
+51,100.61,4,Monthly,Yes,No Churn
+40,132.53,1,,No,Churn
+55,80.35,4,Two-year,No,No Churn
+17,80.83,2,Two-year,No,No Churn
+25,117.92,3,Annual,Yes,Churn
+59,100.53,1,Monthly,Yes,Churn
+27,94.57,0,Monthly,Yes,Churn
+74,104.65,4,,No,Churn
+34,,1,Annual,Yes,No Churn
+74,55.81,2,Monthly,No,Churn
+11,99.51,3,Monthly,Yes,Churn
+34,104.38,1,Annual,Yes,No Churn
+15,82.3,2,Monthly,Yes,Churn
+62,105.43,4,Monthly,No,Churn
+52,30.62,2,Annual,No,Churn
+69,43.79,2,Monthly,Yes,Churn
+24,91.62,0,Monthly,No,Churn
+61,97.18,0,Two-year,Yes,Churn
+24,67.4,2,Two-year,Yes,No Churn
+79,78.08,3,Monthly,Yes,Churn
+12,123.53,1,Monthly,Yes,Churn
+57,63.54,7,Two-year,No,Churn
+17,49.94,2,Monthly,Yes,No Churn
+79,122.85,1,Monthly,Yes,Churn
+57,80.19,2,Monthly,Yes,No Churn
+22,42.47,4,Monthly,Yes,No Churn
+80,62.4,3,Annual,Yes,No Churn
+75,80.02,6,Annual,No,Churn
+62,26.85,2,Monthly,Yes,Churn
+48,72.2,2,Annual,No,No Churn
+80,84.0,4,Monthly,Yes,Churn
+79,73.44,2,Monthly,Yes,No Churn
+3,68.59,0,Monthly,Yes,No Churn
+54,43.23,3,Annual,No,No Churn
+69,45.54,2,Monthly,Yes,No Churn
+71,61.23,0,Two-year,Yes,No Churn
+26,59.7,1,Annual,No,No Churn
+71,134.54,1,Monthly,Yes,No Churn
+75,109.48,4,Monthly,Yes,Churn
+8,65.98,1,Annual,Yes,No Churn
+33,85.91,5,Two-year,Yes,No Churn
+6,34.79,3,Monthly,Yes,Churn
+76,101.62,2,Annual,No,Churn
+62,68.18,0,Annual,No,No Churn
+64,92.61,2,Monthly,No,No Churn
+59,53.8,3,Monthly,No,Churn
+50,120.09,2,Annual,Yes,Churn
+2,112.33,3,Annual,Yes,No Churn
+66,32.98,3,Monthly,Yes,Churn
+65,82.49,2,Monthly,Yes,No Churn
